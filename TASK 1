@@ -1,0 +1,24 @@
+<html>
+<head><title> HTML BASICS </title></head>
+<body>
+This is Hassaan Mangrio, I am Student of Computer Science from SZABIST University, I am very keen to learn MERN Stack Development in this semester so that i can start my professional work at organization/Campany  
+
+<img src= "Hassaan.jpg" alt="Hassaan Mangrio Here">
+
+<table>
+             
+         <tr>1
+              <td>2</td><td>3</td>
+         </tr>
+         <tr>4
+              <td>5</td><td>6</td>
+        </tr>
+         
+</table>
+
+</body>
+
+
+
+
+</html>
